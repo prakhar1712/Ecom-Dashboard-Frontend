@@ -1,0 +1,52 @@
+.App {
+}
+
+.nav-ul {
+  padding: 5px;
+  margin: 0px;
+  background-color: skyblue;
+}
+.nav-right {
+  text-align: right;
+  padding: 5px;
+  margin: 0px;
+  background-color: skyblue;
+}
+.nav-right li {
+  display: inline-block;
+  padding: 5px;
+}
+
+.nav-right li a {
+  color: black;
+  padding: 5px;
+  text-decoration: none;
+}
+.nav-ul li {
+  display: inline-block;
+  padding: 5px;
+}
+
+.nav-ul li a {
+  color: black;
+  padding: 5px;
+  text-decoration: none;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+  background-color: skyblue;
+  height: 50px;
+}
+
+.footer ul li {
+  color: black;
+  padding: 15px;
+}
+
+.cart {
+  text-align: left;
+}

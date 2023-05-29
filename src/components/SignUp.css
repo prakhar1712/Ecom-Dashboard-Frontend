@@ -1,0 +1,33 @@
+.heading {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.input-box {
+  margin-left: 670px;
+  margin-top: 45px;
+}
+
+.input-box input {
+  display: block;
+  padding: 10px;
+  margin: 10px;
+}
+
+.input-box button {
+  margin-top: 14px;
+  display: block;
+  width: 186px;
+  margin-left: 10px;
+  height: 30px;
+  color: black;
+  background-color: skyblue;
+}
+
+.invalid-input {
+  padding-left: 12px;
+  color: red;
+}
